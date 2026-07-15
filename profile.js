@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Hi! I'm a rising junior at the Southern School of Energy and Sustainability in Durham, North Carolina. In the future, I hope to work in education and wildlife rescue because I enjoy teaching others and caring for animals. Although those are my long-term goals, I'm also fascinated by biology and excited to learn how computational biology can help researchers better understand diseases like cancer. Through DREAM-High, I hope to gain experience analyzing biological data and explore how science and technology can be used to solve real-world problems, for both humans and animals.
+  bio: "Hi! I'm Class of 2027 at the Southern School of Energy and Sustainability in Durham, North Carolina. In the future, I hope to work in education and wildlife rescue because I enjoy teaching others and caring for animals. Although those are my long-term goals, I'm also fascinated by biology and excited to learn how computational biology can help researchers better understand diseases like cancer. Through DREAM-High, I hope to gain experience analyzing biological data and explore how science and technology can be used to solve real-world problems, for both humans and animals.
 ",
 
   /*
